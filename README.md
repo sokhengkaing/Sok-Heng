@@ -7,6 +7,8 @@ if you buy online we will discount 0.0000000000001% for you
 
 massage 5000
 jis jorn 15000
+discount 50% sol tae 7500 te 
+mean jom nab arom arh tak tong ban jah :*
 massage+jis jorn 20000 free bay phak lov
 100$ for one night
 
